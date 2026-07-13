@@ -1,0 +1,5 @@
+pywin32>=306
+keyboard>=0.13.5
+opencv-python>=4.8.0
+pymem>=1.10.0
+requests>=2.31.0
